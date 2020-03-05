@@ -1,3 +1,3 @@
 #Apprenticeship
 
-[Codurance Apprenticeship Wiki](https://github.com/codurance/apprenticeship/wiki)
+[Codurance Apprenticeship Wiki](https://github.com/tomspencerlondon/codurance-apprenticeship-apprenticeship-wiki/wiki)
